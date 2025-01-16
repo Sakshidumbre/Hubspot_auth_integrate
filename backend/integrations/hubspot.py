@@ -141,3 +141,4 @@ async def get_items_hubspot(credentials):
             create_integration_item_metadata_object(response, 'hubspot_company')
         )
     return list_of_integration_item_metadata
+    # ann
